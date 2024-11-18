@@ -47,7 +47,7 @@
             dense_publish_en: false      # false: low down the points number in a global-frame point clouds scan.
             scan_bodyframe_pub_en: true  # true: output the point cloud scans in IMU-body-frame
 
-        map_file_path: "/home/feihu/ws_livox/src/FAST_LIO/PCD/icp1s.pcd"
+        map_file_path: "/home/feihu/ws_livox/src/FAST_LIO/PCD/dc2.pcd"
         pcd_save:
             pcd_save_en: true
             interval: -1                     # how many LiDAR frames saved in each pcd file; 
